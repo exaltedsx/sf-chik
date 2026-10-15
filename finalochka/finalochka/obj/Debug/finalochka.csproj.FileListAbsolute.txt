@@ -1,0 +1,11 @@
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\bin\Debug\finalochka.exe.config
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\bin\Debug\finalochka.exe
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\bin\Debug\finalochka.pdb
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.csproj.AssemblyReference.cache
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.Form1.resources
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.Properties.Resources.resources
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.csproj.GenerateResource.cache
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.csproj.CoreCompileInputs.cache
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.exe
+C:\Users\ktobi\OneDrive\Рабочий стол\finalochka\finalochka\obj\Debug\finalochka.pdb
